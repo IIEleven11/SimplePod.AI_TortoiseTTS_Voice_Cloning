@@ -119,15 +119,18 @@
 <!-- wp:paragraph -->
 
 <p>Step 1. Login to Simplepod.ai and click "find instances".</p>
-![image](https://github.com/user-attachments/assets/6a0dee16-cadb-4bb5-8d47-85d762c3bac8)
-
+<p>
+    <img src="Screenshot 2025-01-08 000652.png"/>
+</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 
 <p>Step 2. Select a single RTX 4090. Note: for now stick with a single GPU. Multi GPU training is called distributed data processing or D.D.P for short. This can become extremely complex and in some cases is not supported. You can circle back to learn D.D.P at a later time but ultimately is beyond the scope of this tutorial.</p>
-![image](https://github.com/user-attachments/assets/71c53770-ca36-47c0-805b-3c76296cbaf2)
 
+<p>
+    <img src="Screenshot 2025-01-08 000802.png"/>
+</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":47,"sizeSlug":"large","linkDestination":"none"} -->
@@ -143,8 +146,10 @@
 <!-- wp:paragraph -->
 
 <p>Step 3. The docker templates page will pop open and from here scroll down until you find "simplepodai/jarodmica-ai-voice-cloning". </p>
-![image](https://github.com/user-attachments/assets/c7d90c98-7643-47c7-95fa-a8325cc61d90)
 
+<p>
+    <img src="Screenshot 2025-01-08 000905.png"/>
+</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -166,8 +171,9 @@
 <!-- wp:paragraph -->
 
 <p>Step 4. This will open up a side panel to your right. Verify your settings match mine. You shouldn't have to change anything.</p>
-![image](https://github.com/user-attachments/assets/da14b3b6-238d-4159-bef5-30c7b5d840dc)
-
+<p>
+    <img src="Screenshot 2025-01-08 001134.png"/>
+</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":57,"sizeSlug":"large","linkDestination":"none"} -->
@@ -178,9 +184,10 @@
 
 <!-- wp:paragraph -->
 
-<p>Step 5. This will send it to your private template list. AScroll up and click use.</p>
-![image](https://github.com/user-attachments/assets/774566fe-3c9d-4c71-bd9d-9adbd87bedf5)
-
+<p>Step 5. This will send it to your private template list. Scroll up and click use.</p>
+<p>
+    <img src="Screenshot 2025-01-08 001229.png"/>
+</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":66,"sizeSlug":"large","linkDestination":"none"} -->
@@ -198,7 +205,13 @@
 <!-- wp:paragraph -->
 
 <p>You will get a quick popup. Click it to go to your instance. If you're not fast enough you can click "My Instances" on the left side panel to get to the same place.<br></p>
-![image](https://github.com/user-attachments/assets/39387d0a-adad-4d0c-b32e-869362be914f)
+
+<p>
+    <img src="Screenshot 2025-01-08 001240.png"/>
+</p>
+<p>
+    <img src="Screenshot 2025-01-08 001422.png"/>
+</p>
 
 <!-- /wp:paragraph -->
 
