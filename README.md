@@ -120,7 +120,7 @@
 
 <p>Step 1. Login to Simplepod.ai and click "find instances".</p>
 <p>
-    <img src="Screenshot 2025-01-08 000652.png"/>
+    <img src="Screenshot 2025-01-08 000652.png" width="720" height="340"/>
 </p>
 <!-- /wp:paragraph -->
 
@@ -129,7 +129,7 @@
 <p>Step 2. Select a single RTX 4090. Note: for now stick with a single GPU. Multi GPU training is called distributed data processing or D.D.P for short. This can become extremely complex and in some cases is not supported. You can circle back to learn D.D.P at a later time but ultimately is beyond the scope of this tutorial.</p>
 
 <p>
-    <img src="Screenshot 2025-01-08 000802.png"/>
+    <img src="Screenshot 2025-01-08 000802.png" width="720" height="340"/>
 </p>
 <!-- /wp:paragraph -->
 
@@ -148,7 +148,7 @@
 <p>Step 3. The docker templates page will pop open and from here scroll down until you find "simplepodai/jarodmica-ai-voice-cloning". </p>
 
 <p>
-    <img src="Screenshot 2025-01-08 000905.png"/>
+    <img src="Screenshot 2025-01-08 000905.png" width="720" height="340"/>
 </p>
 <!-- /wp:paragraph -->
 
@@ -172,7 +172,7 @@
 
 <p>Step 4. This will open up a side panel to your right. Verify your settings match mine. You shouldn't have to change anything.</p>
 <p>
-    <img src="Screenshot 2025-01-08 001134.png"/>
+    <img src="Screenshot 2025-01-08 001134.png" width="720" height="340"/>
 </p>
 <!-- /wp:paragraph -->
 
@@ -186,7 +186,7 @@
 
 <p>Step 5. This will send it to your private template list. Scroll up and click use.</p>
 <p>
-    <img src="Screenshot 2025-01-08 001229.png"/>
+    <img src="Screenshot 2025-01-08 001229.png" width="720" height="340"/>
 </p>
 <!-- /wp:paragraph -->
 
@@ -207,10 +207,10 @@
 <p>You will get a quick popup. Click it to go to your instance. If you're not fast enough you can click "My Instances" on the left side panel to get to the same place.<br></p>
 
 <p>
-    <img src="Screenshot 2025-01-08 001240.png"/>
+    <img src="Screenshot 2025-01-08 001240.png" width="720" height="340"/>
 </p>
 <p>
-    <img src="Screenshot 2025-01-08 001422.png"/>
+    <img src="Screenshot 2025-01-08 001422.png" width="720" height="340"/>
 </p>
 
 <!-- /wp:paragraph -->
